@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rustpad-jxz11a on 2026-02-12T18:51:39Z
+# fly.toml app configuration file generated for rustpad-zigz-g on 2026-02-12T22:07:11Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'rustpad-jxz11a'
-primary_region = 'cdg'
+app = 'rustpad-zigz-g'
+primary_region = 'ams'
 
 [build]
 
